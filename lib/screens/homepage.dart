@@ -21,7 +21,7 @@ class _Homepage extends State<Homepage> {
     "Sci-Fi"
   ];
   final Map<String, List<String>> moviesByGenre = {
-    "Romance": ["Titanic", "The Idea of You", "The Sun Is Also a Star"],
+    "Romance": ["Titanic", "The Idea of You", "Made of Honor"],
     "Drama": ["Waves", "Shawshank", "12 Angry Men"],
     "Comedy": ["The Hangover", "21 Jump Street", "Superbad"],
     "Action": ["John Wick", "The Terminator", "Avengers"],
